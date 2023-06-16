@@ -1,0 +1,8 @@
+man-db
+podman
+skopeo
+mcfly
+neovim
+python-pip
+rust
+spice-vdagent
